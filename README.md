@@ -11,4 +11,4 @@ Plataforma utilizada: Alura
 
 O projeto foi desevolvido a partir do curso "HTML e CSS: praticando HTML/CSS"
 
-Email para contato: maria.eduardareis.neve@escola.pr.gov.br
+Email para contato: maria.eduardareis.neves@escola.pr.gov.br
