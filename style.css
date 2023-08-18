@@ -55,3 +55,26 @@ body{
 .container__caixa{
     margin: 0 6em;
 }
+.secundario__imagem{
+    width: 80%
+}
+.secundario{
+    align-items: center;
+    margin: 0 10em;
+}
+.descrição__título{
+    font-weigth: 700;
+    font-size: 48px;
+    color:var(--branco-principal);
+}
+.descrição__texto{
+    margin-bottom: 0.1em;
+    color: var(--cinza-secundario);
+}
+.secundario__botao{
+    display: inline-block;
+    margin-top: 1em;
+}
+.container__descricao{
+    padding: 2em;
+}
